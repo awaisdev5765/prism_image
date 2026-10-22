@@ -2,7 +2,6 @@ name: prism_image
 homepage: https://pub.dev/packages/prism_image
 description: "Resilient network image loading with retry — the maintained replacement for the discontinued flutter_image."
 version: 0.1.0
-homepage:
 
 environment:
   sdk: ^3.11.1
